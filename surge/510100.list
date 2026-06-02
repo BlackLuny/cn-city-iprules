@@ -1388,3 +1388,4 @@ IP-CIDR,223.128.144.0/20,no-resolve
 IP-CIDR,223.129.0.0/17,no-resolve
 IP-CIDR,223.160.7.0/24,no-resolve
 IP-CIDR,223.210.48.0/25,no-resolve
+IP-CIDR,39.144.138.0/24,no-resolve
